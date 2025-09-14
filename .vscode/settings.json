@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src.java/model.java",
+        "src.java"
+    ],
+    "git.enabled": true,
+    "git.decorations.enabled": false,
+    "git.blame.statusBarItem.enabled": false
+}
